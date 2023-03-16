@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "pyMTurkR"]
+	path = pyMTurkR
+	url = https://github.com/vineetbansal/pymturkr
+	shallow = true
+	registered = true
